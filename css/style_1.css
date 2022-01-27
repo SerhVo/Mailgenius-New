@@ -63,7 +63,7 @@ p, h1, h2, h3, h4, h5, h6 {
 .btn-default:hover {
   background: rgba(255, 255, 255, 1);
   box-shadow: 0px 8px 30px #20E4B3D9; 
-  color: linear-gradient(90deg, #0CEBEB 0%, #20E3B2 50%, #29FFC6 100%) ;
+  color: #0CEBEB;
 }
 
 .btn-default:active {
