@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "atishay-jain.all-autocomplete",
+        "mgmcdermott.vscode-language-babel",
+        "eamodio.gitlens",
+        "hookyqr.beautify",
+        "formulahendry.code-runner"
+    ]
+}

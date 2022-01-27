@@ -60,6 +60,24 @@ p, h1, h2, h3, h4, h5, h6 {
   color: rgba(255, 255, 255, 1);
 }
 
+.btn-default:hover {
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 8px 30px #20E4B3D9; 
+  color: linear-gradient(90deg, #0CEBEB 0%, #20E3B2 50%, #29FFC6 100%) ;
+}
+
+.btn-default:active {
+  background: linear-gradient(90deg, #0CEBEB 0%, #20E3B2 50%, #29FFC6 100%);
+  box-shadow: 0px 8px 30px #20E4B3D9; 
+  color: rgb(249, 253, 0);
+}
+
+.btn-default:focus {
+  background: linear-gradient(90deg, #0CEBEB 0%, #20E3B2 50%, #29FFC6 100%) ;
+  box-shadow: 0px 8px 30px #20E4B3D9; 
+  color:  rgba(0, 0, 0, 1);
+}
+
 .header {
   padding: 40px 0;
   position: absolute;
