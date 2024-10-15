@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/2bba5f44-f189-4994-9e8e-f12930880cf6)
+
+
 # MailGenius Landing Page
 
 Description:
